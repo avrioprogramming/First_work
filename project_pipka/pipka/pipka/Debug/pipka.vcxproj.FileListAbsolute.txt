@@ -1,0 +1,3 @@
+C:\Users\227209\Desktop\project_pipka\pipka\pipka\Debug\pipka.vcxproj.AssemblyReference.cache
+C:\Users\227209\Desktop\project_pipka\pipka\pipka\Debug\pipka.MyForm.resources
+C:\Users\227209\Desktop\project_pipka\pipka\pipka\Debug\pipka.vcxproj.GenerateResource.cache
